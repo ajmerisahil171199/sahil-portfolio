@@ -13,7 +13,7 @@ export function Experience() {
                 <h3>&#123;  Software Developer  &#125;</h3>
          
             </div>
-            <h4 style={{display:"flex", justifyContent:"center"}}> TECHORIENT TECHNOLOGIES FZCO (Jan 2024 - Present)</h4>
+            <h4 style={{display:"flex", justifyContent:"center"}}> ANDROPEDIA INFOTECH (Jan 2024 - Present)</h4>
             <p style={{display:"flex", justifyContent:"center", marginTop: "10px" }}>
               C# , Selenium, .NET Framework, Desktop Application
             </p>
