@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/sahil-portfolio/static/css/main.039bf95e.css",
-    "main.js": "/sahil-portfolio/static/js/main.3171880b.js",
+    "main.js": "/sahil-portfolio/static/js/main.7bb59c06.js",
     "static/media/Hello.gif": "/sahil-portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/sahilbg.png": "/sahil-portfolio/static/media/sahilbg.1f218204c6474eed9c5d.png",
-    "static/media/sahils resume.pdf": "/sahil-portfolio/static/media/sahils resume.709571fe5900ebad64e6.pdf",
+    "static/media/sahils resume.pdf": "/sahil-portfolio/static/media/sahils resume.671c5b1cfeebe65c7e4d.pdf",
     "static/media/illustration.svg": "/sahil-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/mysql-icon.svg": "/sahil-portfolio/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
     "static/media/mysql.svg": "/sahil-portfolio/static/media/mysql.3737d1ef555157e6069bbc4a693b96dc.svg",
@@ -28,10 +28,10 @@
     "static/media/linkedin.svg": "/sahil-portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/sahil-portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "main.039bf95e.css.map": "/sahil-portfolio/static/css/main.039bf95e.css.map",
-    "main.3171880b.js.map": "/sahil-portfolio/static/js/main.3171880b.js.map"
+    "main.7bb59c06.js.map": "/sahil-portfolio/static/js/main.7bb59c06.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.3171880b.js"
+    "static/js/main.7bb59c06.js"
   ]
 }
