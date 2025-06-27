@@ -22,7 +22,7 @@ export function Hero() {
           <h3>Software Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">2 Years of Experience</p>
+          <p className="small-resume"> 3 Years of Experience</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
@@ -31,7 +31,7 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://in.linkedin.com/in/sahil-ajmeri-836182172"
+        href="https://www.linkedin.com/in/sahil-ajmeri-59bb21346"
         target="_blank"
         rel="noreferrer"
       >

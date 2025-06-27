@@ -16,13 +16,14 @@ export function Footer() {
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
-          {/* <span>❤️</span> */}
+          <span>❤️</span>
+          "The future belongs to those who believe in the beauty of their dreams." 
+          <span>❤️</span>
         </p>
       </div>
       <div className="social-media">
         <a
-          href="https://in.linkedin.com/in/sahil-ajmeri-836182172"
+          href="https://www.linkedin.com/in/sahil-ajmeri-59bb21346"
           target="_blank"
           rel="noreferrer"
         >
